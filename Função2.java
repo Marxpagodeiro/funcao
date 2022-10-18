@@ -11,7 +11,7 @@ import java.util.Scanner;
  *
  * @author 20222TPMI0035
  */
-public class Função1 {
+public class Função2 {
 
     /**
      * @param args the command line arguments
